@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\4954db80075ecd09728b786ca6eac337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:2:1-26:12
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:13:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b3ed3913959b02ab64ab32fe02c57786\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\01fa38c27a6b5250baa8f9740eba519c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3740b79281463e19d6d3940d9538fd19\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0e583d5a70f2dea506e285f11c17c423\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ec29087d2b4ef25ec97d5e343b458b41\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\431c1cdee6c2f8870af125c75ff1849b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ae00116c23f872300b88220c86032385\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\9c4a477f1dc18a7a22409b83e32831d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\6706400924a2d220fb6e36e884acf6a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3860ca66e5243c29c0106c06e14e8abe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ee7a8dcd1ce6608db480a1b94f8f3753\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\244a7ec6237e6f6bf0547a270c4e139a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\c6d1db82d260ed2ffb3064f099cb7ac9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abf198ca835591304cafe7022619c11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\23a2f7b9262bcf4b6a76fe4ef7b429b4\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1a601aef7e84524c8aaf3612fcf1bf5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b23ed39c3782254e929332bda163f53a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fc8cca008293eb9382e318899cb20d63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\d6cc4ee9daef480963805a773d770c07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c248467e09d8b8c5998159fd324976b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fd783852fec99c03b221113c2c89a4ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\128582ddc860c590aee0e9d9af96c067\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\98fca5d9c4d6155f7024c7d211dd2f3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\331f60e1648a5dfd6ebe33f1e8acae9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c02b198b4635ac178db69793c0b7b04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\45c1207f198fbc3e286db2e178ae94c3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\e67969c923f80772024a3494ac5fb1c5\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\871d1339ea9108fb53fd555ffa76ab27\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.things.permission.MANAGE_SENSOR_DRIVERS
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:6:5-98
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:6:22-95
+uses-permission#com.google.android.things.permission.USE_PERIPHERAL_IO
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:7:5-93
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:7:22-91
+uses-permission#com.google.android.things.permission.MANAGE_INPUT_DRIVERS
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:8:22-94
+uses-permission#com.google.android.things.permission.CONTROL_KEYGUARD
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:9:5-93
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:9:22-90
+uses-permission#android.permission.INTERNET
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:11:5-78
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\871d1339ea9108fb53fd555ffa76ab27\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\871d1339ea9108fb53fd555ffa76ab27\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:13:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:16:5-24:19
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:20:5-22:19
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:20:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\01fa38c27a6b5250baa8f9740eba519c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\01fa38c27a6b5250baa8f9740eba519c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3740b79281463e19d6d3940d9538fd19\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3740b79281463e19d6d3940d9538fd19\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\23a2f7b9262bcf4b6a76fe4ef7b429b4\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\23a2f7b9262bcf4b6a76fe4ef7b429b4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:22:18-86
+uses-library#com.google.android.things
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:14:9-66
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:25:9-27:40
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:21:9-66
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:14:23-63
+activity#com.example.neube.smartdrive.MainActivity
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:16:9-27:20
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:20:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:22:13-26:29
+category#android.intent.category.HOME
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:24:17-73
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:24:27-70
+category#android.intent.category.DEFAULT
+ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml:25:27-73
+uses-sdk
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-button:1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abe549126a4f1ce8888d6a7e2dc39df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\4954db80075ecd09728b786ca6eac337\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\4954db80075ecd09728b786ca6eac337\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:7:5-9:41
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:16:5-18:41
+MERGED from [com.neuberfran.androidthings:driver-SmartDrive:1.0.2] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ac55805dc89125ab7136b1b12ee00603\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b3ed3913959b02ab64ab32fe02c57786\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b3ed3913959b02ab64ab32fe02c57786\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\01fa38c27a6b5250baa8f9740eba519c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\01fa38c27a6b5250baa8f9740eba519c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3740b79281463e19d6d3940d9538fd19\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3740b79281463e19d6d3940d9538fd19\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0e583d5a70f2dea506e285f11c17c423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0e583d5a70f2dea506e285f11c17c423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ec29087d2b4ef25ec97d5e343b458b41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ec29087d2b4ef25ec97d5e343b458b41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\431c1cdee6c2f8870af125c75ff1849b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\431c1cdee6c2f8870af125c75ff1849b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ae00116c23f872300b88220c86032385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ae00116c23f872300b88220c86032385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\9c4a477f1dc18a7a22409b83e32831d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\9c4a477f1dc18a7a22409b83e32831d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\6706400924a2d220fb6e36e884acf6a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\6706400924a2d220fb6e36e884acf6a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3860ca66e5243c29c0106c06e14e8abe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\3860ca66e5243c29c0106c06e14e8abe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ee7a8dcd1ce6608db480a1b94f8f3753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\ee7a8dcd1ce6608db480a1b94f8f3753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\244a7ec6237e6f6bf0547a270c4e139a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\244a7ec6237e6f6bf0547a270c4e139a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\c6d1db82d260ed2ffb3064f099cb7ac9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\c6d1db82d260ed2ffb3064f099cb7ac9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abf198ca835591304cafe7022619c11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\2abf198ca835591304cafe7022619c11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\57a365458104f71c9542f1f2d860b256\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\23a2f7b9262bcf4b6a76fe4ef7b429b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\23a2f7b9262bcf4b6a76fe4ef7b429b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1a601aef7e84524c8aaf3612fcf1bf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1a601aef7e84524c8aaf3612fcf1bf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b23ed39c3782254e929332bda163f53a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b23ed39c3782254e929332bda163f53a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fc8cca008293eb9382e318899cb20d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fc8cca008293eb9382e318899cb20d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\d6cc4ee9daef480963805a773d770c07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\d6cc4ee9daef480963805a773d770c07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c248467e09d8b8c5998159fd324976b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c248467e09d8b8c5998159fd324976b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fd783852fec99c03b221113c2c89a4ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\fd783852fec99c03b221113c2c89a4ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\128582ddc860c590aee0e9d9af96c067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\128582ddc860c590aee0e9d9af96c067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\98fca5d9c4d6155f7024c7d211dd2f3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\98fca5d9c4d6155f7024c7d211dd2f3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\331f60e1648a5dfd6ebe33f1e8acae9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\331f60e1648a5dfd6ebe33f1e8acae9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c02b198b4635ac178db69793c0b7b04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\7c02b198b4635ac178db69793c0b7b04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\45c1207f198fbc3e286db2e178ae94c3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\45c1207f198fbc3e286db2e178ae94c3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\e67969c923f80772024a3494ac5fb1c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\e67969c923f80772024a3494ac5fb1c5\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\871d1339ea9108fb53fd555ffa76ab27\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\871d1339ea9108fb53fd555ffa76ab27\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		ADDED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\neuber\adt-bundle-windows-x86_64-20140702\sdk\SmartDrive6\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:12:18-89
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\1825aa20a9263f599c474526efdec341\AndroidManifest.xml:14:17-113
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\eeeb7e8241bbfeef7223444d8d8a4440\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:20.1.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\852448a0fe58dd024e5110c5b881df58\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\f7b77d75249fdcfe354d137b4aafcc29\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\b71edfde15031189b507e02ffe2a9c66\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\neube\.gradle\caches\transforms-2\files-2.1\0b5624507dcdd5e4658dd0dc4be444b2\AndroidManifest.xml:24:13-58

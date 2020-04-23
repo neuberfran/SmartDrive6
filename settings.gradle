@@ -1,0 +1,2 @@
+rootProject.name='SmartDrive6'
+include ':app'

@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b71edfde15031189b507e02ffe2a9c66\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\b3ed3913959b02ab64ab32fe02c57786\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\neube\\.gradle\\caches\\transforms-2\\files-2.1\\57a365458104f71c9542f1f2d860b256\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]

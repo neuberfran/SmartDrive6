@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jul 31 22:22:59 BRT 2019
+1.base=C\:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.path=classes2.dex
+0.baseType=DIRECTORY
+2.base=C\:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\SmartDrive6\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex

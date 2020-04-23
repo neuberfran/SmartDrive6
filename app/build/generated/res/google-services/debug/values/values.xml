@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">682274557494-ebugf313lgn702dg368blammukg7okvh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartdrive-f819f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">682274557494</string>
+    <string name="google_api_key" translatable="false">AIzaSyByR5E-w2aF1jntXSzotk9i-98cARemimo</string>
+    <string name="google_app_id" translatable="false">1:682274557494:android:b3e8e081666a70e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByR5E-w2aF1jntXSzotk9i-98cARemimo</string>
+    <string name="google_storage_bucket" translatable="false">smartdrive-f819f.appspot.com</string>
+    <string name="project_id" translatable="false">smartdrive-f819f</string>
+</resources>
